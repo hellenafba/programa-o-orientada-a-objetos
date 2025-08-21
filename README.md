@@ -1,6 +1,6 @@
 # POO-Programação Orientada a Objetos (UNAMA)
 
-Aluna: Helena Lúcia Auzier Bibas Fialho(ADS-Manhã)
+Aluna: Helena Lúcia Auzier Bibas Fialho - 04094808(ADS-Manhã,Turma B).
 
 Repositório dedicado a atividades práticas disciplina de Programação Orientada a Objetos com JAVA, ministrada pela professora  Samara Souza, na UNAMA-2025.
 
